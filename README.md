@@ -18,19 +18,43 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="height: 4rem" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" style="height: 4rem" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="height: 4rem" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" style="height: 4rem" />
+<p align="center" >
+<a href="" >
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+</a>
+<a href="">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+</a>
+<a href="">
+<img width="60px" src="./assets/javascript.svg">
+</a>
+<a href="">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+</a>
+<a href="">
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+</a>
+<a href="">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+</a>
+<a href="">
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+</a>
+<a href="">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+</a>
+<a href="">
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
+</a>
+<a href="">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+</a>
+<a href="">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+</a>
+<a href="">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+</a>
 </p>
 
 <br/>
